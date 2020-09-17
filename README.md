@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Berend</h1>
 
-
+<h3 align="left">Languages</h3>
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="html5" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+<!--   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> -->
+  <img src="https://devicon.dev/devicon.git/icons/php/php-plain.svg" alt="php" width="40" height="40" />
+</p>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
