@@ -9,6 +9,12 @@
   <img src="https://devicon.dev/devicon.git/icons/php/php-plain.svg" alt="php" width="40" height="40" />
 </p>
 
+
+<h3 align="left">Frameworks</h3>
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
+</p>
+
 <h3 align="left">Databases</h3>
 <p align="left">
   <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain.svg" alt="MySql" width="40" height="40" />
