@@ -9,6 +9,17 @@
   <img src="https://devicon.dev/devicon.git/icons/php/php-plain.svg" alt="php" width="40" height="40" />
 </p>
 
+<h3 align="left">Databases</h3>
+<p align="left">
+  <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain.svg" alt="MySql" width="40" height="40" />
+<!--   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> -->
+</p>
+
+<h3 align="left">Tools</h3>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+</p>
+
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <a href="https://github.com/berend109/github-readme-stats">
