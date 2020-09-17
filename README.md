@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berend</h1>
 
-<h3 align="left">Conacts</h3>
-<p align="left">
-  Contact me at <a href="https://www.linkedin.com/in/berend-folkers/">Linkedin</a>
-</p>
-<p align="left">
-Send me a <a href = "mailto: abc@example.com">mail</a>
-</p>
-
 <h3 align="left">Languages</h3>
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
