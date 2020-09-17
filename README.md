@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berend109)
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+<a href="https://github.com/berend109/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=berend109&show_icons=true&include_all_commits=true&theme=gruvbox" alt="Berend github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berend109&theme=gruvbox&hide=java" />
+</a>
+
 
 <!--
 **berend109/berend109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
