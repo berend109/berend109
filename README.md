@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=berend109&theme=gruvbox" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/default/?username=berend109&theme=gruvbox" />
 
 <!--
 **berend109/berend109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
