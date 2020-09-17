@@ -2,9 +2,10 @@
 
 <h3 align="left">Conacts</h3>
 <p align="left">
-  <a href="">
-  <img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" />
-  </a>
+  Contact me at <a href="https://www.linkedin.com/in/berend-folkers/">Linkedin</a>
+</p>
+<p align="left">
+Send me a <a href = "mailto: abc@example.com">mail</a>
 </p>
 
 <h3 align="left">Languages</h3>
