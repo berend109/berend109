@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=berend109&include_all_commits=true&theme=gruvbox" alt="Berend github stats" height="205"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berend109&theme=gruvbox&hide=java, shell" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berend109&theme=gruvbox, shell" />
 </a>
 
 
