@@ -27,16 +27,12 @@
   <img src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
 </p>
 
-<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=berend109&include_all_commits=true&theme=gruvbox" alt="Berend github stats" height="205"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=berend109&include_all_commits=true&theme=gruvbox&count_private=true" alt="Berend github stats" height="205"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berend109&theme=gruvbox&hide=shell" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berend109&theme=gruvbox&hide=shell&count_private=true" />
 </a>
-
--->
-
 
 <!--
 **berend109/berend109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
