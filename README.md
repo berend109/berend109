@@ -32,7 +32,7 @@
 </a>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berend109&layout=compact&langs_count=10&theme=gruvbox&hide=shell" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=berend109&include_all_commits=truelayout=compact&langs_count=10&theme=gruvbox&hide=shell" />
 </a>
 
 
