@@ -27,6 +27,11 @@
   <img src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
 </p>
 
+<h3 align="left">CMS</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40" />
+</p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=berend109&include_all_commits=true&theme=gruvbox" alt="Berend github stats" height="205"/>
 </a>
