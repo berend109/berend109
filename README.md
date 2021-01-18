@@ -2,7 +2,7 @@
 
 <h3 align="left">Languages</h3>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" />
+<!--   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" /> -->
 <!--   <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="html5" width="40" height="40" /> -->
   <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40" />
 <!--   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> -->
