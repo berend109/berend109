@@ -6,7 +6,7 @@
 <!--   <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="html5" width="40" height="40" /> -->
   <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40" />
 <!--   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> -->
-  <img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="php" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="80" height="40" />
 </p>
 
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Databases</h3>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySql" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySql" width="50" height="50" />
 <!--   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> -->
 </p>
 
