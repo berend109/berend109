@@ -2,11 +2,11 @@
 
 <h3 align="left">Languages</h3>
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="html5" width="40" height="40" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" />
+<!--   <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="html5" width="40" height="40" /> -->
+  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40" />
 <!--   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> -->
-  <img src="https://devicon.dev/devicon.git/icons/php/php-plain.svg" alt="php" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="php" width="40" height="40" />
 </p>
 
 
@@ -17,14 +17,14 @@
 
 <h3 align="left">Databases</h3>
 <p align="left">
-  <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain.svg" alt="MySql" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySql" width="40" height="40" />
 <!--   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> -->
 </p>
 
 <h3 align="left">Tools</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  <img src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/>
 </p>
 
 <!--<h3 align="left">CMS</h3>
