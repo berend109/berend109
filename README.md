@@ -12,7 +12,7 @@
 
 <h3 align="left">Frameworks</h3>
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap" width="80" height="40" />
 </p>
 
 <h3 align="left">Databases</h3>
