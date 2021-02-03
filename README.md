@@ -38,7 +38,7 @@
 
 <h3 align="left">CMS</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40" />
+  <img src="https://pngimg.com/uploads/wordpress/wordpress_PNG72.png" alt="wordpress" width="40" height="40" />
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
