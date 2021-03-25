@@ -34,13 +34,6 @@
   </a>
 </p>
 
-<h3 align="left">CMS</h3>
-<p align="left">
-  <a href="https://wordpress.com/">
-    <img src="https://pngimg.com/uploads/wordpress/wordpress_PNG72.png" alt="wordpress" width="40" height="40" />
-  </a>
-</p>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=berend109&include_all_commits=true&theme=gruvbox" alt="Berend github stats" height="205"/>
 </a>
