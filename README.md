@@ -2,8 +2,8 @@
 
 <h3 align="left">Languages</h3>
 <p align="left">
-  <img src="https://www.flaticon.com/svg/vstatic/svg/888/888859.svg?token=exp=1616676315~hmac=9dc8c4cec2f0d1ecde879812bf8f1edd" alt="HTML5" width="40" height="40" />
-  <img src="https://www.flaticon.com/svg/vstatic/svg/888/888847.svg?token=exp=1616676269~hmac=5383336c70eebf8cbca2c5fcae4f6a94" alt="CSS3" width="40" height="40" />
+  <!--<img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1616859023~hmac=35cd6b9304f2ab6b446cacd0003b713a" alt="HTML5" width="40" height="40" />
+  <img src="https://www.flaticon.com/svg/vstatic/svg/888/888847.svg?token=exp=1616676269~hmac=5383336c70eebf8cbca2c5fcae4f6a94" alt="CSS3" width="40" height="40" /> -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
     <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40" />
   </a>
