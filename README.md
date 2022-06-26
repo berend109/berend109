@@ -18,6 +18,9 @@
   <a href="https://getbootstrap.com/">
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40" />
   </a>
+  <a href="https://jquery.com/">
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jquery/jquery-icon.svg" alt="Bootstrap" width="40" height="40" />
+  </a>
 </p>
 
 <h3 align="left">Databases</h3>
