@@ -19,7 +19,7 @@
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40" />
   </a>
   <a href="https://jquery.com/">
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jquery/jquery-icon.svg" alt="Bootstrap" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="Bootstrap" width="40" height="40" />
   </a>
 </p>
 
