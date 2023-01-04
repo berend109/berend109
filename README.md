@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Berend</h1>
+
+<div align = "center">
+  <h1>Hi 👋, I'm Berend</h1>
 
 ### Languages
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
   <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40" />
   </a>
   <a href="https://www.php.net/">
@@ -29,16 +30,16 @@
 <a href="https://git-scm.com/">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
 </a>
+</div>
+
 
 <br><hr><br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=berend109&count_private=true&include_all_commits=true&theme=gruvbox" alt="Berend github stats" height="205"/>
-</a>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berend109&count_private=true&include_all_commits=true&layout=compact&theme=gruvbox&hide=shell" />
-</a>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=berend109&show_icons=true&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=berend109&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=berend109&count_private=true&include_all_commits=true&layout=compact&theme=dark&hide_border=true&hide=shell" width = 400>
+</p>
 
 <!--
 **berend109/berend109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
