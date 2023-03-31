@@ -9,6 +9,9 @@
   <a href="https://www.php.net/">
     <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="80" height="40" />
 </a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+      <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="php" width="40" height="40" />
+    </a>
 
 ### Frameworks
 
