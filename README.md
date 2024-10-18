@@ -21,6 +21,9 @@
 <a href="https://jquery.com/">
   <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="Bootstrap" width="40" height="40" />
 </a>
+<a href="https://laravel.com/">
+  <img src="https://laravel.com/img/logomark.min.svg" alt="Bootstrap" width="40" height="40" />
+</a>
 
 ### Databases
 
