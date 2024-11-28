@@ -12,6 +12,9 @@
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
       <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="php" width="40" height="40" />
     </a>
+    <a href="https://www.python.org/">
+      <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40" />
+    </a>
 
 ### Frameworks
 
