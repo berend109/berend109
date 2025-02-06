@@ -46,7 +46,7 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=berend109&show_icons=true&theme=dark&hide_border=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=berend109&theme=dark&hide_border=true" width = 400>
+  <!--<img src = "https://github-readme-streak-stats.herokuapp.com?user=berend109&theme=dark&hide_border=true" width = 400>-->
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=berend109&count_private=true&include_all_commits=true&layout=compact&theme=dark&hide_border=true&hide=shell" width = 400>
 </p>
 
